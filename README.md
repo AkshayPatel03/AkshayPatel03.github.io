@@ -31,9 +31,3 @@ Completed Cisco Networking Academic equivalent training, gaining proficiency in 
 
 ## :raised_hands: SOFT SKILLS
 Active Listening, Adaptability, Critical Thinking, Decision-making, Problem-solving, Teamwork, Time Management, Empathy, Flexibility, Excellent Phone Etiquettes, Self-motivated, Leadership, Troubleshooting, Communication, Multitasking, Prioritization
-
-## :calendar: AVAILABILITIES
-Full-time Mon-Fri (Available Weekends if needed) | Start Date: Immediately.
-
-## REFERENCES
-Available on request
