@@ -9,7 +9,9 @@
 📧 akshay03patel@outlook.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/akshay-patel-2303/)
 
-## :briefcase: ABOUT ME
+## :briefcase: ABOUT 
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture> **About me**
+
 A dynamic IT professional with 3 years of experience in Network Security Administration and 2 years in System Administration. Currently pursuing CompTIA Security+ Certification to enhance expertise in cybersecurity. Proven ability in troubleshooting, system enhancements, and conducting Network/System vulnerability scans. Eager to contribute practical experience and passion for Cybersecurity and Penetration testing in the Canadian IT industry.
 
 ## :hammer_and_wrench: PROJECTS
