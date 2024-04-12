@@ -11,7 +11,6 @@
 
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 30px></picture> **About me**
-https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif
 
 A dynamic IT professional with 3 years of experience in Network Security Administration and 2 years in System Administration. Currently pursuing CompTIA Security+ Certification to enhance expertise in cybersecurity. Proven ability in troubleshooting, system enhancements, and conducting Network/System vulnerability scans. Eager to contribute practical experience and passion for Cybersecurity and Penetration testing in the Canadian IT industry.
 
