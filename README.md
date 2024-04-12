@@ -2,11 +2,8 @@
 <h1 align="center"><b>Hi , I'm Akshay Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
+  <a href="https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
-
-
-
 
 	
 ## <picture><img src = "https://github.com/AkshayPatel03/AkshayPatel03/blob/main/about_me.gif" width = 50px></picture> **About me**
@@ -16,10 +13,10 @@
 <br>
 
 - An Experienced Penetration Tester
-- Self-tought SOC Analyst
+- Self-taught SOC Analyst
 - Currently Learning Python Automation for Cybersecurity and Vulnerability Scanning
-- Building and Practining Kali Linux Penetration Testing Tools in Kali Linux Virtual environment
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf)
+- Building and Practicing Kali Linux Penetration Testing Tools in Kali Linux Virtual environment
+- I’m currently open for an internship or a new job opportunity, this is [my resume](https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf)
 
 <br><br>
 
@@ -36,7 +33,7 @@
     ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
     ![ZAP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
     ![OWASP](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)
-    ![OWASP Dependency-Check](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)
+    ![OWASP Dependency-Check](https://img.shields.io/badge/OWASP%20DependencyCheck-F78D0A.svg?style=for-the-badge&logo=OWASP-Dependency-Check&logoColor=white)
     ![Qualys](https://img.shields.io/badge/Qualys-ED2E26.svg?style=for-the-badge&logo=Qualys&logoColor=white)
     ![MetaSploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
     ![WireShark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
