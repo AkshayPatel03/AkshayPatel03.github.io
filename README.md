@@ -1,134 +1,37 @@
-
 <h1 align="center"><b>Hi , I'm Akshay Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
 
-	
-## <picture><img src = "https://github.com/AkshayPatel03/AkshayPatel03/blob/main/about_me.gif" width = 50px></picture> **About me**
+📍 Ottawa, Ontario K2J 6N7  
+📞 +1 613 410 9091  
+📧 akshay03patel@outlook.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/akshay-patel-2303/)
 
-<picture> <img align="right" src="https://github.com/AkshayPatel03/AkshayPatel03/blob/main/about_me.gif" width = 250px></picture>
+## :briefcase: ABOUT ME
+A dynamic IT professional with 3 years of experience in Network Security Administration and 2 years in System Administration. Currently pursuing CompTIA Security+ Certification to enhance expertise in cybersecurity. Proven ability in troubleshooting, system enhancements, and conducting Network/System vulnerability scans. Eager to contribute practical experience and passion for Cybersecurity and Penetration testing in the Canadian IT industry.
 
-<br>
+## :hammer_and_wrench: PROJECTS
 
-- An Experienced Penetration Tester
-- Self-taught SOC Analyst
-- Currently Learning Python Automation for Cybersecurity and Vulnerability Scanning
-- Building and Practicing Kali Linux Penetration Testing Tools in Kali Linux Virtual environment
-- I’m currently open for an internship or a new job opportunity, this is [my resume](https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf)
+### Active Directory Environment – Virtualisation
+Installed and configured Windows Server 2019 and Windows 11 in my Home Lab VirtualBox for practicing Active Directory Administration using PowerShell Automation. Set up Remote Access Server (RAS) features to support NAT/PAT. Implemented and maintained DNS and DHCP services, tested on Windows 11 machines for DHCP IP address distributions.
 
-<br><br>
+### Home Lab – Virtualisation
+Configured Kali Linux, Windows Server 2019, and Windows 11 to practice Vulnerability exploitation and remediation such as ZAP-OWASP, Burp Suit, Metasploit, Nmap, and Zen map. Implemented Active Directory, DNS, and DHCP servers.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+#### Automated Vulnerability Scanner
+Developed an Automated Vulnerability Scanner using Python, leveraging Nmap library for network scanning and OWASP ZAP library for web application scanning. Automates the process of identifying common security vulnerabilities in network devices and web applications.
 
-## <img src="https://github.com/AkshayPatel03/AkshayPatel03/blob/main/skills%20.gif" width ="25"><b> Skills</b>
-<br>
+### Networking Devices and Initial Configuration – Completed (CCNA equivalent)
+Completed Cisco Networking Academic equivalent training, gaining proficiency in configuring...
 
-<p align="center">
+## :computer: TECHNICAL SKILLS
+- **Cybersecurity:** Vulnerability Scan and Threat Assessment, Nessus Configuration and Remediation, Malware Analysis, Metasploit Pen Testing, Kali Linux Tools
+- **Networking:** Network Configuration, TCP/IP concepts, DNS/DHCP
+- **System Administration:** Microsoft Active Directory, Windows Server, PowerShell Scripting, Office 365 Administration, Linux Administration
+- **Web Security:** Burp Suite Web Scanning, Identifying SQL injection, XSS, CSRF
+- **Others:** Disaster Recovery Planning, Performance Monitoring and Optimization, Shell/PowerShell Scripting
 
-- **Softwares and Tools**:
-
-    ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-    ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
-    ![ZAP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
-    ![OWASP](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)
-    ![OWASP Dependency-Check](https://img.shields.io/badge/OWASP%20DependencyCheck-F78D0A.svg?style=for-the-badge&logo=OWASP-Dependency-Check&logoColor=white)
-    ![Qualys](https://img.shields.io/badge/Qualys-ED2E26.svg?style=for-the-badge&logo=Qualys&logoColor=white)
-    ![MetaSploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
-    ![WireShark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
-    ![Windows Server](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-  
-
-<br>
-
-
-- **Languages**:
-    
-    ![Python for Automation](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Extras**:
-   
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</p>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Connect Me..!</b><img src="https://github.com/AkshayPatel03/files/blob/main/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/akshay-patel-2303/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIN: AkshayPatel03-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/Akshay03patel" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  AkshayPatel03-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:akshay03patel@outlook.com" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft Outlook: AkshayPatel03-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>The Quieter You Become, The More You Can Hear...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-
+## :raised_hands: SOFT SKILLS
+Active Listening, Adaptability, Critical Thinking, Decision-making, Problem-solving, Teamwork, Time Management, Empathy, Flexibility, Excellent Phone Etiquette, Self-motivated, Leadership, Troubleshooting, Communication, Multitasking, Prioritization
