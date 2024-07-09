@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi , I'm Akshay Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/AkshayPatel03/Resume/blob/main/AkshayPatelCV.pdf"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
+  <a href="https://github.com/AkshayPatel03/AkshayPatelCV/blob/7d2b0d12f9ab5dcda66cefcca6d5950e31eb25ce/AkshayPatelCV%20GH.pdf"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Experienced+Penetration-Tester,;SOC+Analyst,;Cybersecurity+Practitioner,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
+
 
 📍 Ottawa, Ontario K2J 6N7  
 📞 +1 613 *** ***1  
