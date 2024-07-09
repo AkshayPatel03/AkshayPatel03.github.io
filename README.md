@@ -5,15 +5,14 @@
 </p>
 
 📍 Ottawa, Ontario K2J 6N7  
-📞 +1 613 410 9091  
+📞 +1 613 *** ***1  
 📧 akshay03patel@outlook.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/akshay-patel-2303/)
 
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 30px></picture> **About me**
 
-A dynamic IT professional with 3 years of experience in Network Security Administration and 2 years in System Administration. Currently pursuing CompTIA Security+ Certification to enhance expertise in cybersecurity. Proven ability in troubleshooting, system enhancements, and conducting Network/System vulnerability scans. Eager to contribute practical experience and passion for Cybersecurity and Penetration testing in the Canadian IT industry.
-
+With strong problem-solving and analytical skills, I am a dynamic IT professional with 2 years in Network Security Administration and 2 years in System Administration. Currently pursuing CompTIA Security+ Certification to advance expertise in Cybersecurity. Proven ability to troubleshoot, enhance systems, and perform Network/System vulnerability scans. Eager to apply practical experience and passion for Cybersecurity and Penetration testing in the Canadian IT industry.
 
 <picture><img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></picture> 
 
