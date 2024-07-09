@@ -18,17 +18,34 @@ With strong problem-solving and analytical skills, I am a dynamic IT professiona
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width = 30px></picture> **Projects and HomeLab**
 
-#### Active Directory Environment – Virtualisation
+- ### Nessus Vulnerability Scanner Project ( [Check here](https://github.com/AkshayPatel03/Nessus-Vulnerability-Scanner-Project.git) )
+
+Configured Nessus to perform both network and credential scans on a Metasploitable 2 virtual machine, identifying security vulnerabilities and providing remediation recommendations. Analyzed and documented scan results, enhancing my understanding of vulnerability scanning and network security analysis. This project improved my skills in configuring and using vulnerability scanners, interpreting scan data, and formulating actionable security measures. As a result, I developed a practical approach to identifying and mitigating security threats in virtual environments.
+
+- ### Intrusion Detection and Prevention System using Snort ( [Check here](https://github.com/AkshayPatel03/Intrusion-Detection-and-Prevention-System-using-Snort.git) )
+
+Implemented an Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) using Snort on a Kali Linux virtual machine to monitor and protect a Metasploitable 2 target system. Configured Snort to detect and prevent various cyber attacks, enhancing the security of the network. This project improved my skills in network security monitoring, threat detection, and proactive defense strategies, resulting in a comprehensive understanding of IDS/IPS deployment and management.
+
+- ### Cloud Security Project with Azure Sentinel (SIEM) ( [Check here](https://github.com/AkshayPatel03/Cloud_Security_Project_SIEM.git) )
+
+Utilized Microsoft Azure to create a secure cloud environment, monitoring failed logon attempts and responding to potential security incidents. Leveraged Azure Virtual Machines, Azure Log Analytics, Microsoft Defender for Cloud, and Azure Sentinel to enhance security monitoring and incident response. Implemented custom log files, integrated an IP Geolocation API, and visualized IP locations on maps in Azure Sentinel. This project strengthened my skills in SIEM technology, cloud security, and proactive threat management.
+
+- ### Active Directory Environment – Virtualisation  ( [Check here](https://github.com/AkshayPatel03/Active-Directory-Home-Lab-Environment.git) )
+
 Installed and configured Windows Server 2019 and Windows 11 in my Home Lab VirtualBox for practicing Active Directory Administration using PowerShell Automation. Set up Remote Access Server (RAS) features to support NAT/PAT. Implemented and maintained DNS and DHCP services, tested on Windows 11 machines for DHCP IP address distributions.
 
-#### Home Lab – Virtualisation
+
+- ### Home Lab – Virtualisation ( [Check here](https://github.com/AkshayPatel03/home-lab-for-cybersecurity.git) )
+
 Configured Kali Linux, Windows Server 2019, and Windows 11 to practice Vulnerability exploitation and remediation such as ZAP-OWASP, Burp Suit, Metasploit, Nmap, and Zen map. Implemented Active Directory, DNS, and DHCP servers.
 
-#### Automated Vulnerability Scanner
+- ### Automated Vulnerability Scanner ( [Check here](https://github.com/AkshayPatel03/python-for-pentester.git) )
+
 Developed an Automated Vulnerability Scanner using Python, leveraging Nmap library for network scanning and OWASP ZAP library for web application scanning. Automates the process of identifying common security vulnerabilities in network devices and web applications.
 
-#### Networking Devices and Initial Configuration – Completed (CCNA equivalent)
-Completed Cisco Networking Academic equivalent training, gaining proficiency in configuring...
+- ### Networking Devices and Initial Configuration – Completed (CCNA equivalent)
+  
+Completed the Cisco Networking Devices and Initial Configuration course on the Cisco SkillsForAll platform. Gained hands-on experience with configuring and managing network devices, including routers and switches. Learned fundamental networking concepts, such as IP addressing, subnetting, and VLAN configuration. This certification preparation enhanced my practical skills in setting up and troubleshooting network infrastructure, ensuring efficient and secure communication within a network.
 
 <picture><img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></picture> 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> **Technical Skills**
